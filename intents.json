@@ -1,0 +1,286 @@
+{
+    "intents": [
+        {
+            "tag": "salam",
+            "patterns": [
+                "hello",
+                "hai",
+                "hi",
+                "halo",
+                "p",
+                "tes",
+                "selamat pagi",
+                "selamat siang",
+                "selamat sore",
+                "selamat malam"
+            ],
+            "responses": [
+                "\n Hai! \n RPTRABot di sini. lagi kepo tentang RPTRA Malinjo Jakarta Selatan ya?"
+            ]
+        },
+        {
+            "tag": "jawaban_ya",
+            "patterns": [
+                "iya",
+                "ya",
+                "iya nih"
+            ],
+            "responses": [
+                "\n kepo tentang apa nih? \n Disini kami bisa memberikan informasi terkait RPTRA Malinjo Kelurahan Pejaten Barat, Jakarta Selatan: \n \n 1. Mengenal RPTRA \n 2. Tujuan RPTRA \n 3. Manfaat RPTRA \n 4. Kegiatan yang dinaungi RPTRA \n 5. Peran RPTRA untuk masyarakat \n 6. Tugas RPTRA \n 7. Fasilitas pendukung RPTRA \n 8. Sejarah RPTRA Malinjo Jakarta Selatan \n 9. Lokasi RPTRA Malinjo Jakarta Selatan \n 10. Jam Buka RPTRA \n 11. Hari Buka RPTRA \n 12. Jadwal Kegiatan Pemberdayaan Masyarakat bersama pengelola (KPM) \n 13. Media RPTRA Malinjo Jakarta Selatan \n 14. Informasi peminjaman fasilitas \n 15. Cara Daftar Mengadakan Kegiatan \n 16. Informasi Biaya Mengadakan Kegiatan \n 17. Fasilita Yang Bisa Dipinjam \n 18. Fasilita Yang Bisa Dipinjam \n 19. Informasi Peminjaman Buku Perpustakaan \n 20. Kegiatan Minggu Pagi \n 21. Aksebilitas Untuk Penyandang Disabilitas \n \n Nah kamu mau pilih nomer berapa nih?"
+            ]
+        },
+        {
+            "tag": "mengenal rptra",
+            "patterns": [
+                "1. Mengenal RPTRA",
+                "1"
+            ],
+            "responses": [
+                "\n Ruang Publik Terpadu Ramah Anak (RPTRA) merupakan ruang publik berupa ruang terbuka hijau \n ramah anak yang dilengkapi dengan berbagai fasilitas yang mendukung perkembangan anak, kenyamanan orangtua,\n serta tempat berinteraksi seluruh warga dari berbagai kalangan tua, muda, hingga penyandang disabilitas"
+            ]
+        },
+        {
+            "tag": "tujuan rptra",
+            "patterns": [
+                "2. Tujuan RPTRA",
+                "2"
+            ],
+            "responses": [
+                "\n RPTRA (Ruang Pembangunan Terbuka Ramah Anak) yang bertujuan untuk memfasilitasi kenyamananan anak. Tujuannya adalah Memfasilitasi masyarakat (anak-anak) untuk taman bermain dan edukasi anak Manfaat dari inovasi RPTRA adalah adanya kenyamanan masyarakat (anak)"
+            ]
+        },
+        {
+            "tag": "manfaat rptra",
+            "patterns": [
+                "3. Manfaat RPTRA",
+                "3"
+            ],
+            "responses": [
+                "\n Pemanfaatan ruang publik diharapkan dapat memfasilitasi kenyamananan bagi anak didesain untuk taman bermain dan edukasi anak dan dapat memberikan akses atau kesempatan kepada anak untuk mengalami kehidupan budaya, seni, dan belajar berbagai bentuk ekspresi secara bebas, dengan memberikan ruang untuk berkomunikasi, bertindak dan terlibat dalam memberikan kesempatan secara luas kepada anak"
+            ]
+        },
+        {
+            "tag": "kegiatan naungan rptra",
+            "patterns": [
+                "4. Kegiatan yang dinaungi RPTRA",
+                "4"
+            ],
+            "responses": [
+                "\n RPTRA memiliki beberapa karakteristik yang bisa kamu ketahui, berikut ini adalah beberapa di antaranya: \n \n 1. Bina Keluarga Balita Pendidikan Anak Usia Dini (BKBPAUD) \n 2. Pos Pelayanan Terpadu (Posyandu) \n 3. Perpustakaan anak \n 4. Tempat berolahraga \n 5. Tempat bermain \n 6. Kegiatan kreatif anak \n 7. Kegiatan 10 (sepuluh) program pokok PKK \n 8. Kegiatan kesenian \n 9. Layanan kebencanaan \n 10. Kegiatan masyarakat yang tidak berpotensi mengakibatkan kerusakan taman atau prasarana dan sarana yang ada \n 11. Menjadi tempat wisata edukatif yang murah dan menarik"
+            ]
+        },
+        {
+            "tag": "peran rptra",
+            "patterns": [
+                "5. Peran RPTRA",
+                "5"
+            ],
+            "responses": [
+                "\n Peran RPTRA Bagi Masyarakat : \n 1. Ruang terbuka untuk publik \n 2. Wahana permainan dan tumbuh kembang anak \n 3. Sarana kegiatan sosial \n 4. Pengembangan pengetahuan dan ketrampilan kader PKK \n 5. Ruang terbuka hijau"
+            ]
+        },
+        {
+            "tag": "tugas rptra",
+            "patterns": [
+                "6. Tugas RPTRA",
+                "6"
+            ],
+            "responses": [
+                "\n Tugas RPTRA adalah menyediakan ruang terbuka. Sarana dan prasarana yang disediakan tentu \n saja ramah anak, namun fasilitas tersebut juga dapat digunakan oleh orang dewasa dan dijadikan sarana \n bagi warga sekitar untuk melakukan berbagai aktivitas terutama kegiatan sosial antar tetangga"
+            ]
+        },
+        {
+            "tag": "fasilitas rptra",
+            "patterns": [
+                "7. Fasilitas pendukung RPTRA",
+                "7"
+            ],
+            "responses": [
+                "Fasilitas di dalam bangunan : \n Ruang serbaguna, Ruang Perpustakaan, Ruang laktasi, Ruang pengelola, Ruang Pembinaan Kesejahteraan Keluarga (PKK), Toilet (Pria, Wanita dan Disabilitas), Tempat cuci tangan, Gudang, dan Dapur bersih (Pantry). \n \n Fasilitas di luar bangunan : \n Lapangan olahraga, Tempat bermain anak, Jalur lari (Jogging Track), Jalur refleksi, Panggung terbuka (Amphitheatre), Kolam gizi, Taman Tanaman Obat Keluarga (TOGA), Parkir sepeda, dan Bangku taman."
+            ]
+        },
+        {
+            "tag": "sejarah rptra",
+            "patterns": [
+                "8. Sejarah RPTRA Malinjo Jakarta Selatan",
+                "8"
+            ],
+            "responses": [
+                "Menurut warga setempat dahulu daerah ini banyak sekali ditumbuhi Pohon Malinjo. Kemudian \n berdasarkan musyawarah tingkat kelurahan maka dipilihlah nama Malinjo karena lokasinya bertempat di Jalan \n Malinjo. RPTRA Malinjo dibangun dengan luas tanah 1.125,92m dan Luas Bangunan 232,66m. RPTRA, diinisiasi \n oleh  Pemprov DKI Jakarta dibawah kepemimpinan Gubernur Basuki Tjahaja Purnama dibangun sebagian \n besarnya menggunakan sumbangan dana Corporate Social Responsibility. Peran pemprov biasanya dengan \n menyediakan lahan. Biaya pembangunan berkisar 400 - 750 Juta dari Pihak Swasta. Proses pembangunan, \n pengawasan, dan pemeliharaan RPTRA juga melibatkan masyarakat sekitar. Bahkan perawatan Taman juga \n dilakukan oleh masyarakat sekitar RPTRA dan dikoordinir oleh Ibu-Ibu PKK. Harapannya, RPTRA bisa ikut \n membantu Kota DKI Jakarta untuk bisa meraih status Kota Layak Anak sekaligus menyediakan ruang terbuka \n hijau bagi publik."
+            ]
+        },
+        {
+            "tag": "lokasi rptra",
+            "patterns": [
+                "9. Lokasi RPTRA",
+                "9"
+            ],
+            "responses": [
+                "Malinjo No.107, RT.7/RW.6, Pejaten Barat, Pasar Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12510"
+            ]
+        },
+        {
+            "tag": "jam buka",
+            "patterns": [
+                "10. Jam Buka RPTRA",
+                "10"
+            ],
+            "responses": [
+                "RPTRA Malinjo kelurahan Pejaten Barat Jakarta Selatan, buka setiap jam 07.00 WIB dan tutup jam 17.00 WIB"
+            ]
+        },
+        {
+            "tag": "hari buka",
+            "patterns": [
+                "11. Hari Buka RPTRA",
+                "11"
+            ],
+            "responses": [
+                "RPTRA Malinjo kelurahan Pejaten Barat Jakarta Selatan, buka setiap hari Senin sampai Minggu"
+            ]
+        },
+        {
+            "tag": "jadwal kpm",
+            "patterns": [
+                "12. Jadwal Kegiatan Pemberdayaan Masyarakat bersama pengelola (KPM)",
+                "12"
+            ],
+            "responses": [
+                "Hari : Senin \n Materi : Bahasa Inggris \n Waktu : 15.30 - 16.00 WIB (PAUD & TK) \n 16.00 - 16.30 WIB (SD) \n \n Hari : Selasa \n Materi : Calistung \n Waktu : 15.30 - 16.30 WIB (PAUD & TK) \n \n Hari : Rabu \n Materi : Matematika \n Waktu : 13.15 - 14.00 WIB (PAUD & TK) \n 14.00 - 15.00 WIB (SD) \n \n Hari : Kamis \n Materi : Mengaji Iqra' \n Waktu : 13.00 - 15.00 WIB \n \n Hari : Jumat \n Materi : Musik Pianika \n Waktu : 15.30 - 16.30 WIB \n \n Hari : Minggu \n Materi : Futsal dan Basket \n Waktu : 15.30 - 16.30 WIB"
+            ]
+        },
+        {
+            "tag": "media rptra",
+            "patterns": [
+                "13. Media RPTRA Malinjo Jakarta Selatan",
+                "13"
+            ],
+            "responses": [
+                "Facebook : https://www.facebook.com/RPTRAMalinjo \n Instagram : https://www.instagram.com/rptramalinjo \n Tiktok : https://www.tiktok.com/@rptramalinjo?_t=8cGtp6NpsWY&_r=1 \n Twitter : https://twitter.com/rptramalinjo \n Email : rptra.pejatenbarat@gmail.com \n Whatsapp : https://wa.me/6289656571278 (Asep Hidayat)"
+            ]
+        },
+        {
+            "tag": "informasi peminjam fasiitas",
+            "patterns": [
+                "14. Informasi peminjaman fasilitas",
+                "14"
+            ],
+            "responses": [
+                "Tata cara peminjaman tempat di RPTRA Malinjo : \n 1. Masyarakat setempat yang ingin meminjam tempat, baik aula maupun lapangan bisa mengisi melalui Google Form yang tersedia. \n 2. Jika menggunakan fasilitas berupa \u201cKursi dan Karpet\u201d silahkan tulis jumlah kursi dan karpet pada kolom \u201cYang lain\u201d. \n 3. Jika sudah mengisi google form silahkan ditunggu 24 jam, setelah itu tim pengelola RPTRA Malinjo akan mengecek jawaban Anda. \n 4. Jika tidak ada respon setelah 24 jam, bisa konfirmasi kembali melalui menu tentang kami, kemudian pilih media sosial, kemudian silahkan chat kami di whatsapp maupun instagram. \n 5. Link Google Form : https://forms.gle/ZP1pwyX34kQZzLLJ8"
+            ]
+        },
+        {
+            "tag": "daftar mengadakan kegiatan",
+            "patterns": [
+                "15. Cara Daftar Mengadakan Kegiatan",
+                "15"
+            ],
+            "responses": [
+                "Caranya Gampang, kamu cukup datang ke RPTRA temui pengelola yang sedang bertugas. utarakan tujuanmu dan nanti disiapkan penjadwalannya, usahakan min. H-4 untuk pengajuan tempatnya"
+            ]
+        },
+        {
+            "tag": "biaya kegiatan",
+            "patterns": [
+                "16. Biaya Mengadakan Kegiatan",
+                "16"
+            ],
+            "responses": [
+                "tidak ada bayaran sama sekali di RPTRA alias gratis"
+            ]
+        },
+        {
+            "tag": "fasilitas yang bisa dipinjam",
+            "patterns": [
+                "17. Fasilita Yang Bisa Dipinjam",
+                "17"
+            ],
+            "responses": [
+                "Kamu bisa gunakan Kursi, Meja, Sound System dan Mic, Proyektor dan Layar"
+            ]
+        },
+        {
+            "tag": "syarat mengadakan kegiatan",
+            "patterns": [
+                "18. Fasilita Yang Bisa Dipinjam",
+                "18"
+            ],
+            "responses": [
+                "syaratnya cukup mudah kok. kamu dilarang merokok, dilarang bertindak asusila, dilarang merusak sarana dan prasarana, dilarang membuat kerusuhan, dilarang membuang sampah di sembarang tempat"
+            ]
+        },
+        {
+            "tag": "infromasi peminjaman buku perpustakaan",
+            "patterns": [
+                "19. Informasi Peminjaman Buku Perpustakaan",
+                "19"
+            ],
+            "responses": [
+                "Peminjaman buku perpustakaan di RPTRA Malinjo belum bisa dilakukan hanya saja bisa di baca di pinjam di tempat"
+            ]
+        },
+        {
+            "tag": "kegiatan khusus minggu pagi",
+            "patterns": [
+                "20. Kegiatan Minggu Pagi",
+                "20"
+            ],
+            "responses": [
+                "Setiap Minggu pagi pengelola mengadakan kegiatan senam aerobik bersama warga sekitar"
+            ]
+        },
+        {
+            "tag": "aksebilitas",
+            "patterns": [
+                "21. Aksebilitas Untuk Penyandang Disabilitas",
+                "21"
+            ],
+            "responses": [
+                "pintu masuk khusus pengguna disabilitas"
+            ]
+        },
+        {
+            "tag": "sampai jumpa",
+            "patterns": [
+                "sampai jumpa",
+                "Sampai jumpa lagi",
+                "Goodbye",
+                "dadah",
+                "see u",
+                "bye",
+                "see ya"
+            ],
+            "responses": [
+                "Terima kasih telah menghubungi RPTRABot, semoga informasi yang RPTRABot berikan bermanfaat untuk teman-teman ya!, sampai jumpa :)"
+            ]
+        },
+        {
+            "tag": "invalid",
+            "patterns": [
+                "asdf",
+                "gvsd",
+                "asbhk",
+                "adhdh",
+                ""
+            ],
+            "responses": [
+                "Maaf saya ga paham, coba deh masukkan kata yang benar :("
+            ]
+        },
+        {
+            "tag": "Terima Kasih",
+            "patterns": [
+                "Terima kasih",
+                "Terimakasih",
+                "Makasih",
+                "Makasih ya",
+                "Oke Makasih"
+            ],
+            "responses": [
+                "Senang bisa membantu!",
+                "dengan senang hati",
+                "termakasih kembali,teman!"
+            ]
+        }
+    ]
+}
